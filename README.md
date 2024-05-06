@@ -1,2 +1,3 @@
 # Algorithm_Journey
-- use hexo
+    - Recording of my algorithm journey
+
