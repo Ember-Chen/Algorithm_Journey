@@ -18,3 +18,6 @@ category: Handbook
     - [Linux, Hexo]
     - [Tools, PHP]
     ```
+- 修改categories界面的层级缩进距离
+    - 打开文件`/themes/next/source/css/_common/component/pages/categories.styl`
+    - 修改`.category-list-item`
