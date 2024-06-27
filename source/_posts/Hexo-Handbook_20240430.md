@@ -5,6 +5,7 @@ category: Handbook
 ---
 
 - 为每个.md文件创建单独资源文件夹
+    
     - 文件`_config.yml`中的`post_asset_folder`设置为`true`
 - 并列分类
     ```
